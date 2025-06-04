@@ -1,0 +1,5 @@
+# Created at 2025-06-04T17:40:19.258
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Drive D\programs\eclipse work (2)\Game2048-final\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
