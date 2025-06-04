@@ -1,2 +1,2 @@
-2048 Game made using JavaFx and Maven
+2048 Game made using JavaFx and Maven.
 source code in src
